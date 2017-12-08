@@ -26,8 +26,8 @@ nav {
 }
 
 .location {
-  background-color: lightgrey;
-  border-bottom: 1px solid grey;
+  background-color: #ECECEC;
+  border-bottom: 1px solid #7E7D7D;
   float: left;
   width: 100%;
 }
@@ -61,5 +61,5 @@ nav {
 }
 
 .location:hover {
-  background-color: grey;
+  background-color: #CECECE;
 }
